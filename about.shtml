@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Daniella Jaeger</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-28593855-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+  </head>
+  <body>
+		<!--#include virtual="nav.shtml" -->
+		<div id="about">
+			<p>Hi, I'm Daniella, Community Product Manager at Kickstarter.</p>
+			<p>I dance samba, study Spanish and programming, listen to a lot of Latin music, and live in Brooklyn.</p>
+			<p>Previously, I worked in editorial at a scientific nonprofit in Washington, DC, and as an ESL teacher in Seoul, Korea.</p>
+			<p>I graduated from McGill University in Montreal.</p>
+			<a href="http://twitter.com/Piztachio">TWITTER</a><br>
+			<a href="http://www.flickr.com/photos/daniella_jaeger">FLICKR</a><br>
+			<a href="http://shareable.net/blog/qa-with-kickstarters-daniella-jaeger">Q&A</a></p>
+		</div>
+  </body>
+</html>

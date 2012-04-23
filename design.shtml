@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Daniella Jaeger</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-28593855-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+  </head>
+  <body>
+		<!--#include virtual="nav.shtml" -->
+		<div id="design">
+			<img src="design/miamiposter.jpg" height="500">
+			<img src="design/enjoydetroit.jpg" height="500">
+			<img src="design/bethany.jpg" height="500">
+			<img src="design/monogram.jpg" height="500">
+			<img src="design/styleguide.jpg" height="500">
+			<img src="design/100yearlogo.jpg" height="500">
+			<img src="design/map.jpg" height="500">
+			<img src="design/infographic.jpg" height="500">
+		</div>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+body {
+	font-family: Baskerville, Georgia, Serif;
+	padding: 1em;
+}
+
+#nav {
+	list-style: none;
+	float: fixed;
+	margin-left: -1em;
+}
+
+li {
+	color: #708090;
+	text-decoration: none;
+}
+
+a:link {
+	color: #708090;
+	font-size: .75em;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #708090;
+	font-size: .75em;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A9A9A9;
+	font-size: .75em;
+	text-decoration: none;
+}
+
+a:active {
+	color: #708090;
+	font-size: .75em;
+	text-decoration: none;
+}
+
+/*******************
+Content
+*******************/
+
+#home {
+	float: left;
+	margin-left: 7em;
+	margin-top: -11.4em;
+}
+
+#about {
+	float: left;
+	width: 400px;
+	font-family: Baskerville, Georgia, Serif;
+	font-size: .9em;
+	margin-left: 10em;
+	margin-top: -8.2em;
+}
+
+#writing {
+	float: left;
+	width: 400px;
+	font-family: Baskerville, Georgia, Serif;
+	font-size: .9em;
+	margin-left: 10em;
+	margin-top: -8.2em;
+}
+
+#poem1 {
+	float: left;
+	width: 250px;
+	font-family: Baskerville, Georgia, Serif;
+	font-size: .9em;
+	margin-left: 5em;
+	margin-top: -8.2em;
+}
+
+#poem2 {
+	float: left;
+	width: 250px;
+	font-family: Baskerville, Georgia, Serif;
+	font-size: .9em;
+	margin-left: 10em;
+	margin-top: -8.2em;
+	margin-bottom: 1em;
+}
+
+#poem3 {
+	float: left;
+	width: 340px;
+	font-family: Baskerville, Georgia, Serif;
+	font-size: .9em;
+	margin-left: 10em;
+	margin-top: -8.2em;
+}
+
+#poem4 {
+	float: left;
+	width: 340px;
+	font-family: Baskerville, Georgia, Serif;
+	font-size: .9em;
+	margin-left: 10em;
+	margin-top: -8.2em;
+}
+
+#design {
+	float: left;
+	white-space: nowrap;
+	margin-top: -6.8em;
+	margin-left: 8em;
+	padding-right: 1.5em;
+}
+
+#photos {
+	float: left;
+	white-space: nowrap;
+	margin-top: -6.8em;
+	margin-left: 8em;
+}
+
+#design img {
+	padding: .4em;
+}
+
+#photos img {
+	padding: .4em;
+}
+
+#poemwrapper {
+	width: 1900px;
+	height: 800px;
+}

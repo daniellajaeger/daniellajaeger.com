@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Daniella Jaeger</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-28593855-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+  </head>
+  <body>
+		<!--#include virtual="nav.shtml" -->
+		<div id="writing">
+			<p><a href="http://www.kickstarter.com/blog/rest-stops-of-america">REST STOPS OF AMERICA</a>
+			<br><i>Kickstarter blog</i>
+			</p>
+			<p><a href="http://www.kickstarter.com/blog/kontiki-deluxe-reviving-a-lost-classic">KONTIKI DELUXE: REVIVING A LOST CLASSIC</a>
+			<br><i>Kickstarter blog</i>
+			</p>
+			<p><a href="http://www.kickstarter.com/blog/sex-you-hes-gonna">SEX YOU (HE'S GONNA)</a>
+			<br><i>Kickstarter blog</i>
+			</p>
+			<p><a href="http://www.kickstarter.com/blog/tangrams-app-ified">TANGRAMS, APP-IFIED!</a>
+			<br><i>Kickstarter blog</i>
+			</p>
+			<p><a href="http://pubs.acs.org/cen/newscripts/87/8728newscripts.html">WORK-AND-PLAY FABRIC, TRANSLUCENT CONCRETE</a>
+			<br><i>Chemical & Engineering News</i>
+			</p>
+			<p><a href="http://pubs.acs.org/cen/newscripts/87/8739newscripts.html">BIONIC EYESIGHT, CELL-PHONE MICROSCOPES</a>
+			<br><i>Chemical & Engineering News</i>
+			</p>
+			<p><a href="http://pubs.acs.org/cen/newscripts/87/8734newscripts.html">BREATHS OF CHOCOLATE, NO SWEAT RESEARCH</a>
+			<br><i>Chemical & Engineering News</i>
+			</p>
+		</div>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Daniella Jaeger</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-28593855-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+  </head>
+  <body>
+		<!--#include virtual="nav.shtml" -->
+		<div id="photos">
+			<img src="photos/koreasigns.jpg" alt="koreasigns" height="500">
+			<img src="photos/jungmin.jpg" alt="jungmin" height="500">
+			<img src="photos/kidsmix.jpg" alt="kidsmix" height="500">
+			<img src="photos/girls.jpg" alt="girls" height="500">
+			<img src="photos/kidspair.jpg" alt="kidspair" height="500">
+			<img src="photos/shinjukustreet.jpg" alt="shinjukustreet" height="500">
+			<img src="photos/yotsuyasubway.jpg" alt="yotsuyasubway" height="500">
+			<img src="photos/beijingcrowd.jpg" alt="beijingcrowd" height="500">
+			<img src="photos/tiananmen.jpg" alt="tiananmen" height="500">
+			<img src="photos/leshiphop.jpg" alt="leshiphop" height="500">
+			<img src="photos/loisaida.jpg" alt="loisaida" height="500">
+			<img src="photos/liquorbar.jpg" alt="liquorbar" height="500">
+			<img src="photos/newyearskiss.jpg" alt="newyearskiss" height="500">
+			<img src="photos/afternoontea.jpg" alt="afternoontea" height="500">
+			<img src="photos/dcdragpink.jpg" alt="dcdragpink" height="500">
+			<img src="photos/dcdragblond.jpg" alt="dcdragblond" height="500">
+			<img src="photos/pinacolada.jpg" alt="pinacolada" height="500">
+			<img src="photos/watersplash.jpg" alt="watersplash" height="500">
+			<img src="photos/sanjuankite.jpg" alt="sanjuankite" height="500">
+			<img src="photos/viejosanjuan.jpg" alt="viejosanjuan" height="500">
+			<img src="photos/sambagirls.jpg" alt="sambagirls" height="500">
+			<img src="photos/telavivapt.jpg" alt="telavivapt" height="500">
+			<img src="photos/telavivbeachbuilding.jpg" alt="telavivbeachbuilding" height="500">
+			<img src="photos/roti.jpg" alt="roti" height="500">
+			<img src="photos/bbq.jpg" alt="bbq" height="500">
+			<img src="photos/carousel.jpg" alt="carousel" height="500">
+			<img src="photos/parkslopefall.jpg" alt="parkslopefall" height="500">
+			<img src="photos/flyny.jpg" alt="flyny" height="500">
+			<img src="photos/kite.jpg" alt="kite" height="500">
+		</div>
+  </body>
+</html>

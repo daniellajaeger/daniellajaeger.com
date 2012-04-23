@@ -1,0 +1,8 @@
+<ul id="nav">
+	<li><a href="index.shtml">D</a></li><br>
+	<li><a href="about.shtml">ABOUT</a></li>
+	<li><a href="writing.shtml">WRITING</a></li>
+	<li><a href="poems.shtml">POEMS</a></li>
+	<li><a href="design.shtml">DESIGN</a></li>
+	<li><a href="photos.shtml">PHOTOS</a></li>
+</ul>
